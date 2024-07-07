@@ -1,5 +1,6 @@
 public class Java5 {
     public static void main(String[] args) {
+        // Logical operators
         int num1 = 90;
         int num2 = 80;
         int num3 = 100;

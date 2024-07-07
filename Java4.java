@@ -1,5 +1,6 @@
 public class Java4 {
     public static void main(String[] args) {
+        // relational operator
         boolean first = (12<13);
         boolean second = (12>13);
         boolean third = (12!=13);

@@ -1,5 +1,7 @@
 public class Java3 {
     public static void main(String[] args) {
+        // Arithmetic operators
+        
         int num1 = 12;
         int num2 = 45;
         int add = num1+num2;

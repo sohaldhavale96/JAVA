@@ -1,5 +1,6 @@
 public class Java6 {
     public static void main(String[] args) {
+        // If else
         int age = 19;
         boolean bringVoterID = true;
         if(age<18){

@@ -1,5 +1,8 @@
 public class Java2 {
     public static void main(String[] args) {
+
+        // Datatypes and variables
+
         byte marks = 98; // Use "byte(1 byte)" when we are storing values between -256 to 255
         short totalCollegeStudents = 12345; // Use "short(2 byte)" when storing values between -32768 to 32767
         int totalVotes = 93249342; // Range : -2147483648 to 2147483647
